@@ -30,8 +30,8 @@ Pump control via relay
 🧠 System Logic
 Sensor Value	Soil Condition	Pump	LCD Display
 > 600	Dry	ON	SOIL DRY
-< 350	Wet	OFF	SOIL WET
-350–600	Normal	ON	SOIL NORMAL
+> < 350	Wet	OFF	SOIL WET
+> 350–600	Normal	ON	SOIL NORMAL
 
 🔌 Pin Configuration
 Component	NodeMCU Pin
