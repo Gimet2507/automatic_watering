@@ -4,13 +4,13 @@ This project is an automatic plant watering system using a NodeMCU ESP8266, soil
 
 🔧 Components Used
 
--NodeMCU ESP8266
--Analog soil moisture sensor
--1-channel relay module (for water pump/valve)
--16x2 I2C LCD display
--DC water pump or solenoid valve
--WiFi connection
--Blynk app (Android/iOS)
+- NodeMCU ESP8266
+- Analog soil moisture sensor
+- 1-channel relay module (for water pump/valve)
+- 16x2 I2C LCD display
+- DC water pump or solenoid valve
+- WiFi connection
+- Blynk app (Android/iOS)
 
 📲 Features
 
